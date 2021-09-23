@@ -20,7 +20,7 @@ I am Junior Web developer. </p>
 
 <p align="center">
 
-<a href="linkedin.com/in/anand-kumar-130402182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/anand-kumar-130402182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
 
 <a href="mailto:anand.kva00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
