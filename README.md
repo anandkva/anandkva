@@ -22,8 +22,10 @@ I am Junior Web developer. </p>
 
 <a href="https://www.linkedin.com/in/anand-kumar-130402182/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandkva-blue?style=flat&logo=linkedin"></a>
 
-<a href="mailto:anand.kva00@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-anand.kva00@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:anand.kva00@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-anand.kva00@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+<a href="https://anandinfo.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/website?color=red&label=website&logo=website&logoColor=red&up_message=https%3A%2F%2Fanandinfo.herokuapp.com%2F&url=https%3A%2F%2Fanandinfo.herokuapp.com%2F"></a>
+</p>
 
 ⭐️ From [@anandkva](https://github.com/anandkva)
