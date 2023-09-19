@@ -3,7 +3,7 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=anandkva" alt="anandkva" />
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <div>
  <p>
 I am Junior Web developer. </p>
