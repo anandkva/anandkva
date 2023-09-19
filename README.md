@@ -1,17 +1,21 @@
 ### Hi there 👋 I'm Anand Kumar
-> Full Stack Developer | React.js | Angular | Node.js | MongoDB
+> Full Stack Developer | React.js | Next.js | Vue.js | Node.js | GoLang | MongoDB
 
 
 <img src="https://komarev.com/ghpvc/?username=anandkva" alt="anandkva" />
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <div>
  <p>
-I am Junior Web developer. </p>
+I am a Full-stack developer. </p>
 </div>
 
 ### Programming Languages 🌐
 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="mysql" width="24">](https://reactjs.org/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="mysql" width="24">](https://angular.io/) [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="mysql" width="24">](https://nodejs.org/en/) [<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="mysql" width="24">](https://www.mongodb.com/)
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="24">](https://reactjs.org/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" width="24">](https://vuejs.org/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="24">](https://nodejs.org/en/) 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" width="24">](https://go.dev/) 
+[<img src="https://g.foolcdn.com/art/companylogos/square/mdb.png" alt="mongoDB" width="24">](https://www.mongodb.com/)
 
  
 
