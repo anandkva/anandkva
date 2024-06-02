@@ -1,5 +1,5 @@
 <h1 align="center">Hi There!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height=50px width = 50px>, Im, Anand Kumar</h1>
-> Full Stack Developer | React.js | Next.js | Vue.js | Node.js | GoLang | MongoDB
+### Full Stack Developer | React.js | Next.js | Vue.js | Node.js | GoLang | MongoDB
 
 
 <img src="https://komarev.com/ghpvc/?username=anandkva" alt="anandkva" />
@@ -34,10 +34,3 @@ I am a Full-stack developer. </p>
 </p>
 
 ⭐️ From [@anandkva](https://github.com/anandkva)
-
-<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
-
-
-![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=anandkva&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandkva&show_icons=true&theme=radical&layout=compact)](https://github.com/anandkva)
